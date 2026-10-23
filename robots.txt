@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taxes.gstreetportal.com/sitemap.xml
